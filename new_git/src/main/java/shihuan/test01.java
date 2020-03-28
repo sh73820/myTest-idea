@@ -7,5 +7,6 @@ public class test01 {
     public void te1(){
         System.out.println("hahah");
         System.out.println("xixix");
+        System.out.println("xixix");
     }
 }
